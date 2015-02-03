@@ -1,0 +1,2 @@
+# app.inleggo
+Inventario
